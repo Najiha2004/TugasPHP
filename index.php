@@ -1,15 +1,3 @@
-<?php
-    $umur = 18;
-    $status = "mahasiswa";
-    $hasil = "";
-
-    if($umur > 19 && $status == "mahasiswa") {
-        $hasil = "berhak menerima mahasiswa";
-    } else {
-        $hasil = "tidak berhak menerima beasiswa";
-    }
-?>
-
 
 <?php
   $brandName = "✨Jiha Beads✨";
